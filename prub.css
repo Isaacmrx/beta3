@@ -115,3 +115,9 @@ button:hover{
 button:hover span{
     animation-play-state: paused;
 }
+#audio {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
